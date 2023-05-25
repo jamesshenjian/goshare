@@ -6,7 +6,7 @@
 
 ### 安装
  ```
- go get -u github.com/mineralres/goshare
+ go get -u github.com/jamesshenjian/goshare
 ```
 
 
@@ -89,7 +89,7 @@ API示例:
 
 ```go
 import (
-  "github.com/mineralres/goshare"
+  "github.com/jamesshenjian/goshare"
 )
 
 func main() {

@@ -4,7 +4,7 @@ import (
 	"log"
 
 	"github.com/golang/protobuf/proto"
-	"github.com/mineralres/protos/src/go/six"
+	"github.com/jamesshenjian/protos/src/go/six"
 	"github.com/syndtr/goleveldb/leveldb"
 )
 

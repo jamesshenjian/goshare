@@ -8,9 +8,9 @@ import (
 	"os"
 	"time"
 
-	pb "github.com/mineralres/protos/src/go/goshare"
-	"github.com/mineralres/goshare/pkg/spider"
-	"github.com/mineralres/goshare/pkg/tdxclient"
+	pb "github.com/jamesshenjian/protos/src/go/goshare"
+	"github.com/jamesshenjian/goshare/pkg/spider"
+	"github.com/jamesshenjian/goshare/pkg/tdxclient"
 )
 
 type bonusConfig struct {

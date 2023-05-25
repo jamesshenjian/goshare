@@ -6,8 +6,8 @@ import (
 	"log"
 	"time"
 
-	"github.com/mineralres/goshare/pkg/spider"
-	"github.com/mineralres/goshare/pkg/util"
+	"github.com/jamesshenjian/goshare/pkg/spider"
+	"github.com/jamesshenjian/goshare/pkg/util"
 )
 
 // SMTPPassword 密码是自己在QQ邮箱的smtp授权码，参考 https://my.oschina.net/u/3768573/blog/1607327

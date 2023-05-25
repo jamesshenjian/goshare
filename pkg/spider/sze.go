@@ -8,8 +8,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/360EntSecGroup-Skylar/excelize/v2"
-	pb "github.com/mineralres/protos/src/go/goshare"
+	"github.com/jamesshenjian/excelize"
+	pb "github.com/jamesshenjian/protos/src/go/goshare"
 )
 
 // SZE sze

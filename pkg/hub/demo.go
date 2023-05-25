@@ -11,8 +11,8 @@ import (
 	"github.com/syndtr/goleveldb/leveldb"
 	"github.com/syndtr/goleveldb/leveldb/util"
 
-	pb "github.com/mineralres/protos/src/go/goshare"
-	hubpb "github.com/mineralres/protos/src/go/hub"
+	pb "github.com/jamesshenjian/protos/src/go/goshare"
+	hubpb "github.com/jamesshenjian/protos/src/go/hub"
 )
 
 type msg struct {

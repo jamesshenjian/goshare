@@ -6,8 +6,8 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/mineralres/goshare/pkg/util"
-	"github.com/mineralres/protos/src/go/six"
+	"github.com/jamesshenjian/goshare/pkg/util"
+	"github.com/jamesshenjian/protos/src/go/six"
 )
 
 func serveHTTP(db *SixDB) {

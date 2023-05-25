@@ -7,10 +7,10 @@ import (
 	"testing"
 	"time"
 
-	"github.com/mineralres/protos/src/go/ctp"
-	"github.com/mineralres/goshare/pkg/util"
-	gspb "github.com/mineralres/protos/src/go/goshare"
-	hubpb "github.com/mineralres/protos/src/go/hub"
+	"github.com/jamesshenjian/goshare/pkg/util"
+	"github.com/jamesshenjian/protos/src/go/ctp"
+	gspb "github.com/jamesshenjian/protos/src/go/goshare"
+	hubpb "github.com/jamesshenjian/protos/src/go/hub"
 )
 
 func init() {

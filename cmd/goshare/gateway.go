@@ -9,10 +9,9 @@ import (
 	"github.com/golang/protobuf/jsonpb"
 	"github.com/golang/protobuf/proto"
 	"github.com/gorilla/websocket"
-	"github.com/mineralres/goshare/pkg/util"
+	"github.com/jamesshenjian/goshare/pkg/util"
 
-	// pb "github.com/mineralres/protos/src/go/goshare"
-	"github.com/mineralres/goshare/pkg/api"
+	"github.com/jamesshenjian/goshare/pkg/api"
 )
 
 func pbJSON(c *gin.Context, o proto.Message) error {

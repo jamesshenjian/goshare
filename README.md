@@ -19,10 +19,10 @@
 
 
 * pkg/hub 集成交易通道
-  * adapter.go 配合[ctp-binding](https://github.com/mineralres/ctp-binding) 的一个CTP交易客户端组件
+  * adapter.go 配合[ctp-binding](https://github.com/jamesshenjian/ctp-binding) 的一个CTP交易客户端组件
   * demo.go  一个A股和中国期货模拟撮合的组件
   * pool.go 简易的adapter池
-  * subscriber.go 与[ctp-binding](https://github.com/mineralres/ctp-binding)配合使用的订阅行情的组件
+  * subscriber.go 与[ctp-binding](https://github.com/jamesshenjian/ctp-binding)配合使用的订阅行情的组件
   * sync.go 一个同步访问的adapter封装
 
 
@@ -52,8 +52,8 @@
 # 策略平台
 
 # 关联项目
- * [protos定义](https://github.com/mineralres/protos)
- * [CTP网关](https://github.com/mineralres/ctp-binding)
- * [UI](https://github.com/mineralres/goshare-ui)
+ * [protos定义](https://github.com/jamesshenjian/protos)
+ * [CTP网关](https://github.com/jamesshenjian/ctp-binding)
+ * [UI](https://github.com/jamesshenjian/goshare-ui)
 
 

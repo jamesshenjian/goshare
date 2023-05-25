@@ -15,9 +15,9 @@ import (
 	"strings"
 	"time"
 
-	pb "github.com/mineralres/protos/src/go/goshare"
-	spiderpb "github.com/mineralres/protos/src/go/spider"
-	"github.com/mineralres/goshare/pkg/util"
+	"github.com/jamesshenjian/goshare/pkg/util"
+	pb "github.com/jamesshenjian/protos/src/go/goshare"
+	spiderpb "github.com/jamesshenjian/protos/src/go/spider"
 )
 
 // SSE sse

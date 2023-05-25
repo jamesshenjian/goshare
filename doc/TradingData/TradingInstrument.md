@@ -7,7 +7,7 @@
 
 ```
 import (
-  "github.com/mineralres/goshare"
+  "github.com/jamesshenjian/goshare"
 )
 
 var s goshare.SSEOfficialSource

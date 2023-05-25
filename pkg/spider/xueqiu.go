@@ -13,8 +13,8 @@ import (
 	"strings"
 	"time"
 
-	gspb "github.com/mineralres/protos/src/go/goshare"
-	pb "github.com/mineralres/protos/src/go/spider"
+	gspb "github.com/jamesshenjian/protos/src/go/goshare"
+	pb "github.com/jamesshenjian/protos/src/go/spider"
 )
 
 // Xueqiu  xueqiu

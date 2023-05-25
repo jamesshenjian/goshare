@@ -1,6 +1,6 @@
 # 前言
 
-[goshare](https://github.com/mineralres/goshare) 的最终目标是提供一个产品级策略平台,设计过程中考虑提供以下特性:
+[goshare](https://github.com/jamesshenjian/goshare) 的最终目标是提供一个产品级策略平台,设计过程中考虑提供以下特性:
 
 * 以微服务的方式设计架构和提供服务
 

@@ -6,7 +6,7 @@
 
 ```go
 import (
-  "github.com/mineralres/goshare"
+  "github.com/jamesshenjian/goshare"
 )
 
 func main() {
